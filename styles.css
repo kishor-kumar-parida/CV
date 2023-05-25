@@ -1,0 +1,42 @@
+body{
+  background-color: #DBE4C6;
+  color: #9A208C;
+  font-size: 20px;
+  margin: 0;
+}
+.content{
+  padding : 10px;
+}
+hr{
+  background-color: inherit;
+  border-style: dotted none none;
+  border-color: black;
+  border-width: 5px;
+  width : 10%;
+}
+h1{
+  margin-bottom: 0;
+  margin-top: 15px;
+}
+h2{
+  text-decoration: underline;
+}
+h1,h2{
+  color: #8F43EE;
+}
+a:hover{
+  background-color: #FFDD83;
+}
+a{
+  color: #9A208C;
+}
+li{
+  line-height: 1.5;
+}
+.footer{
+  padding: 10px;
+  background-color: #203530;
+}
+.one{
+  background-color: #203530;
+}
